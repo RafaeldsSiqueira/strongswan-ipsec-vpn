@@ -1,0 +1,13 @@
+# Secrets e credenciais reais
+*secrets.conf
+!*secrets.conf.example
+
+# Arquivos temporários e backups
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Logs
+*.log
